@@ -1,0 +1,29 @@
+{
+  "name": "microsoft-landing-page-using-tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar-ojha/microsoft-landing-page-using-tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar-ojha/microsoft-landing-page-using-tailwind-css/issues"
+  },
+  "homepage": "https://github.com/tushar-ojha/microsoft-landing-page-using-tailwind-css#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1"
+  },
+  "dependencies": {
+    "init": "^0.1.2",
+    "vite": "^3.1.8"
+  }
+}
