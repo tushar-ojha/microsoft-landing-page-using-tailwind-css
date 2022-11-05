@@ -1,5 +1,7 @@
 - npm i gets us the node_modules folder while npm init just generates a basic package.json file.
 
+- We can save svg code in assets/search.svg file and include it using img tag inside html file.
+
 - They need my attention:
     - inline-flex, flex-baseline, text-base
 
