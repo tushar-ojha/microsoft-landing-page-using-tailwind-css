@@ -2,8 +2,16 @@
 
 - We can save svg code in assets/search.svg file and include it using img tag inside html file.
 
+- Dirty fix is not bad. Sometimes we really need to use it and there is nothing wrong about it.
+
+- Trick: Always give logical class name to elements so that we can easily search them to add classes as and when needed.
+
 - They need my attention:
     - inline-flex, flex-baseline, text-base
+
+- underline-offset sets distance between the element and it's underline.
+
+- wesiteURL/favicon.ico to get favicon.
 
 - space-x; very important property. Applies space among all children.
 
