@@ -1,3 +1,11 @@
+### [Go live Buddy!](https://tushar-ojha-microsoft.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08792b0d-05a4-4f99-97ad-0f08934f1468/deploy-status)](https://app.netlify.com/sites/tushar-ojha-web-design-landing-page/deploys)
+### Key Points to note:-
+
+- They need my attention:
+    - inline-flex, flex-baseline, text-base.
+    
 - npm i gets us the node_modules folder while npm init just generates a basic package.json file.
 
 - We can save svg code in assets/search.svg file and include it using img tag inside html file.
@@ -5,9 +13,6 @@
 - Dirty fix is not bad. Sometimes we really need to use it and there is nothing wrong about it.
 
 - Trick: Always give logical class name to elements so that we can easily search them to add classes as and when needed.
-
-- They need my attention:
-    - inline-flex, flex-baseline, text-base
 
 - underline-offset sets distance between the element and it's underline.
 
